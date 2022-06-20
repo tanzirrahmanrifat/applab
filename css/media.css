@@ -1,0 +1,422 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) {
+
+     /* common  */
+     h1 {
+         font-size: 35px !important;
+         margin-bottom: 30px;
+     }
+
+     /* header section start  */
+
+     .navbar-toggler:focus {
+         box-shadow: 0 0 0 0.05rem !important;
+     }
+
+     header {
+         margin-top: 15px;
+     }
+
+     .menu {
+         margin: 10px 65px 0 auto;
+     }
+
+     .menu li {
+         margin-left: 5px;
+     }
+
+     .hero-contant h1 {
+         margin: 20px 0;
+     }
+
+     /* header section end  */
+     /* hero section start  */
+     #hero {
+         margin-top: 0;
+     }
+
+     .hero-contant {
+         text-align: center;
+         margin: 40px 0;
+     }
+
+     .hero-contant h6 {
+         margin: 0 auto;
+         width: 100%;
+         text-align: left;
+     }
+
+     /* hero section end  */
+
+     /* trust section start  */
+     #trusted {
+         margin: 80px 0;
+     }
+
+     /* trust section end  */
+
+
+     /* feature section start  */
+     .feature-wrapper .offset-1 {
+         margin-left: 0;
+     }
+
+     .f-btn.feature-btn {
+         margin: 0 auto;
+     }
+
+     .awesome-left {
+         text-align: center;
+     }
+
+     .performen-head {
+         text-align: center;
+     }
+
+     .perfor {
+         text-align: center;
+     }
+
+     /* feature section end  */
+
+
+     /* smart section start  */
+     #smart {
+         margin: 60px 0;
+     }
+
+     .smart-head {
+         margin-bottom: 60px;
+         text-align: center;
+     }
+
+     .smart-head h1 {
+         border: none;
+     }
+
+     .smart-item {
+         text-align: center;
+     }
+
+     /* smart section end  */
+
+     /* design section start  */
+     .design-wrapper {
+         text-align: center;
+     }
+
+     .design-left {
+         margin-bottom: 60px;
+     }
+
+     /* design section end  */
+
+     /* chose section start  */
+     #chose {
+         margin: 60px 0;
+     }
+
+     .chose-head {
+         margin-bottom: 60px;
+     }
+
+     /* chose section end  */
+
+     /* feature section start  */
+     #get-offer {
+         margin: 60px 0;
+     }
+
+     .feature-head {
+         text-align: center;
+     }
+
+     .feature-left {
+         margin-bottom: 60px;
+         text-align: center;
+     }
+
+     .per-img img {
+         margin-bottom: 30px;
+     }
+
+     /* feature section end  */
+
+     /* offer section start   */
+     .get-head {
+         margin-bottom: 60px;
+     }
+
+     .card {
+         margin-bottom: 30px;
+     }
+
+     /* offer section end   */
+
+     /* review section start  */
+     #review {
+         margin-bottom: 60px;
+     }
+
+     .review-right {
+         text-align: center;
+         margin: 80px 0;
+     }
+
+     .slick-prev::before,
+     .slick-next::before {
+         display: none !important;
+     }
+
+     /* review section end  */
+
+     /* FAQ section start  */
+     #question {
+         padding-bottom: 60px;
+     }
+
+     .question-head {
+         margin-bottom: 60px;
+     }
+
+     /* FAQ section end  */
+
+     /* download section start  */
+     #download {
+         text-align: center;
+     }
+
+     .offset-1 {
+         margin-left: 0;
+     }
+
+     /* download section end  */
+
+     /* footer section start  */
+     .foot-wrapper {
+         margin-top: 60px;
+     }
+
+     .foot-wrapper ul {
+         margin-top: 25px;
+     }
+
+     .foot-wrapper ul li {
+         margin-bottom: 15px;
+     }
+
+     /* footer section end  */
+     /* scrolltop button  */
+     #topbtn {
+         right: 25px;
+         bottom: 40px;
+         font-size: 20px;
+         width: 40px;
+         height: 40px
+     }
+
+
+ }
+
+ /* Small devices (landscape phones, 576px and up) */
+ @media (min-width: 576px) and (max-width: 767.98px) {
+
+     /* header section start  */
+     header {
+         margin-top: 15px;
+     }
+
+     .navbar-toggler:focus {
+         box-shadow: 0 0 0 0.05rem !important;
+     }
+
+     .menu {
+         margin: 10px 65px 0 auto;
+     }
+
+
+     .menu li {
+         margin-left: 5px;
+     }
+
+     .hero-contant h1 {
+         font-size: 50px;
+     }
+
+     /* header section end  */
+     /* hero section start  */
+     #hero {
+         margin-top: 0;
+     }
+
+     .hero-contant {
+         text-align: center;
+         margin: 40px 0;
+     }
+
+     .hero-contant h6 {
+         margin: 0 auto;
+     }
+
+     /* hero section end  */
+
+     /* trust section start  */
+     #trusted {
+         margin: 80px 0;
+     }
+
+     /* trust section end  */
+
+
+     /* feature section start  */
+     .feature-wrapper .offset-1 {
+         margin-left: 0;
+     }
+
+     .f-btn.feature-btn {
+         margin: 0 auto;
+     }
+
+     .awesome-left {
+         text-align: center;
+     }
+
+     .performen-head {
+         text-align: center;
+     }
+
+     .per-img {
+         text-align: center;
+     }
+
+     /* feature section end  */
+
+
+     /* smart section start  */
+     #smart {
+         margin: 80px 0;
+     }
+
+     .smart-head {
+         margin-bottom: 80px;
+         text-align: center;
+     }
+
+     .smart-head h1 {
+         border: none;
+     }
+
+     /* smart section end  */
+
+     /* design section start  */
+     .design-wrapper {
+         text-align: center;
+     }
+
+     .design-left {
+         margin-bottom: 60px;
+     }
+
+     /* design section end  */
+
+     /* chose section start  */
+     #chose {
+         margin: 80px 0;
+     }
+
+     /* chose section end  */
+
+     /* feature section start  */
+     #get-offer {
+         margin: 80px 0;
+     }
+
+     .feature-head {
+         text-align: center;
+     }
+
+     .feature-left {
+         margin-bottom: 60px;
+     }
+
+     /* feature section end  */
+
+     /* review section start  */
+     #review {
+         margin-bottom: 80px;
+     }
+
+     .review-right {
+         text-align: center;
+         margin: 80px 0;
+     }
+
+     /* review section end  */
+
+
+     /* FAQ section start  */
+     #question {
+         padding-bottom: 80px;
+     }
+
+     /* FAQ section end  */
+
+     /* download section start  */
+     #download {
+         text-align: center;
+     }
+
+     .offset-1 {
+         margin-left: 0;
+     }
+
+     /* download section end  */
+
+     /* footer section start  */
+     .foot-wrapper {
+         margin-top: 80px;
+     }
+
+     /* footer section end  */
+ }
+
+ /* medium devices (tablets, 768px up  */
+ @media (min-width: 768px) and (max-width: 991.98px) {
+
+     /* header section start  */
+     header {
+         margin-top: 15px;
+     }
+
+     .menu li {
+         margin-left: 5px;
+     }
+
+     .hero-contant h1 {
+         font-size: 50px;
+     }
+
+     /* header section end  */
+
+
+
+     /* feature section start  */
+     .feature-wrapper .offset-1 {
+         margin-left: 0;
+     }
+
+     .f-btn.feature-btn {
+         margin: 0 auto;
+     }
+
+     /* feature section end  */
+ }
+
+ /* Large devices (desktops, 992px and up) */
+ @media (min-width: 992px) and (max-width: 1199.98px) {}
+
+ /* Large devices ( large desktops, 992px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+ /* Extra extra large devices ( extra extra large desktops, 1200px and up) */
+ @media (min-width: 1400px) {}
